@@ -1,0 +1,8 @@
+﻿work/
+work/*
+build/
+*.zip
+*.dmp
+*.log
+*.tmp
+__pycache__/
